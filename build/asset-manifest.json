@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/akihane-badoclub-homepage/static/css/main.88843bba.css",
-    "main.js": "/akihane-badoclub-homepage/static/js/main.cb63876e.js",
-    "static/js/453.96453769.chunk.js": "/akihane-badoclub-homepage/static/js/453.96453769.chunk.js",
-    "static/media/jjj.jpg": "/akihane-badoclub-homepage/static/media/jjj.15bd064f8ecb62c9caac.jpg",
-    "static/media/image1.jpg": "/akihane-badoclub-homepage/static/media/image1.e2437616f535219b2870.jpg",
-    "static/media/poster-1.png": "/akihane-badoclub-homepage/static/media/poster-1.b4e55a44d08021cb40c5.png",
-    "static/media/image2.jpg": "/akihane-badoclub-homepage/static/media/image2.df9e1f4aa82a935bdd87.jpg",
-    "index.html": "/akihane-badoclub-homepage/index.html",
-    "main.88843bba.css.map": "/akihane-badoclub-homepage/static/css/main.88843bba.css.map",
-    "main.cb63876e.js.map": "/akihane-badoclub-homepage/static/js/main.cb63876e.js.map",
-    "453.96453769.chunk.js.map": "/akihane-badoclub-homepage/static/js/453.96453769.chunk.js.map"
+    "main.css": "/static/css/main.88843bba.css",
+    "main.js": "/static/js/main.e1094a50.js",
+    "static/js/453.96453769.chunk.js": "/static/js/453.96453769.chunk.js",
+    "static/media/jjj.jpg": "/static/media/jjj.15bd064f8ecb62c9caac.jpg",
+    "static/media/image1.jpg": "/static/media/image1.e2437616f535219b2870.jpg",
+    "static/media/poster-1.png": "/static/media/poster-1.b4e55a44d08021cb40c5.png",
+    "static/media/image2.jpg": "/static/media/image2.df9e1f4aa82a935bdd87.jpg",
+    "index.html": "/index.html",
+    "main.88843bba.css.map": "/static/css/main.88843bba.css.map",
+    "main.e1094a50.js.map": "/static/js/main.e1094a50.js.map",
+    "453.96453769.chunk.js.map": "/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88843bba.css",
-    "static/js/main.cb63876e.js"
+    "static/js/main.e1094a50.js"
   ]
 }
