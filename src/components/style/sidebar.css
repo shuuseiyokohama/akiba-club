@@ -95,10 +95,10 @@ body {
   }
 
   .header p {
-    font-size: 5vw; /* フォントサイズを大きく */
+    font-size: 4.5vw; /* フォントサイズを大きく */
     color: #330000; /* 文字色を白に */
     margin: 0; /* 余白を削除 */
-    margin-left: 13vw; /* 左側の余白 */
+    margin-left: 8vw; /* 左側の余白 */
     margin-right: 1.5vw; /* 右側の余白 */
   }
   /* メニューリスト */

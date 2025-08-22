@@ -9,7 +9,7 @@ export const Header = () =>{
   
   return(
     <header  id="header" className="header">
-      <p>秋羽クラブ</p>
+      <p>練馬区バドミントン  秋羽クラブ</p>
       <nav>
         <div className="menu-icon" onClick={toggleMenu}>
           <div className="bar"></div>
